@@ -91,9 +91,20 @@ h2{
     color: white;
 }
 .time{
+    font-weight: 300;
+    font-size: 120%;
     display: inline-block;
     color: #e67e22;
     margin-top: 1.5em;
     margin-left: 1.5em;
-    margin-right: 1.5em; 
+    margin-right: 1.5em;
+}
+
+
+.numb{
+    font-size: 80%;
+    color: #fff;
+    border: 2px solid #333;
+    margin-top: 1em;
+    background-color: #e67e22;
 }
